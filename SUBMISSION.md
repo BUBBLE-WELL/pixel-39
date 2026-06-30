@@ -24,7 +24,7 @@ Qing
 
 ## Source URL
 
-TBD: replace with the public `pixel-39` repository URL after pushing.
+https://github.com/BUBBLE-WELL/pixel-39
 
 ## Short description
 
