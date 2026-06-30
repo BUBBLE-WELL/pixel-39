@@ -1,0 +1,28 @@
+﻿{
+  "id": "pixel-39--qing",
+  "folderSlug": "pixel-39--qing",
+  "petId": "pixel-39",
+  "displayName": "pixel-39",
+  "author": "Qing",
+  "primaryCategory": "Anime Characters",
+  "sourceType": "fan-art",
+  "sourceUrl": "TBD: replace with the public pixel-39 repository URL after pushing",
+  "description": "A pixel styled Codex pet: a tiny blue-green princess with a leek who works with you in Codex and waves when your code is ready.",
+  "tags": [
+    "pixel",
+    "codex",
+    "fan-made",
+    "non-commercial",
+    "blue-green",
+    "leek"
+  ],
+  "license": {
+    "code": "MIT",
+    "visualAssets": "fan-made non-commercial; inspired by Hatsune Miku / Piapro Characters; not affiliated with Crypton Future Media"
+  },
+  "files": {
+    "pet": "pet.json",
+    "spritesheet": "spritesheet.webp",
+    "contactSheet": "contact-sheet.png"
+  }
+}
