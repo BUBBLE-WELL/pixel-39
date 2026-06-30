@@ -8,17 +8,17 @@ A pixel styled Codex pet: a tiny blue-green princess with a leek who works with 
 
 ## State Previews
 
-Animated state previews are included under `previews/` when generated from the local hatch-pet build:
+| idle | running-right | running-left |
+| --- | --- | --- |
+| ![idle](previews/idle.gif) | ![running-right](previews/running-right.gif) | ![running-left](previews/running-left.gif) |
 
-- `idle`
-- `running-right`
-- `running-left`
-- `waving`
-- `jumping`
-- `failed`
-- `waiting`
-- `running`
-- `review`
+| waving | jumping | failed |
+| --- | --- | --- |
+| ![waving](previews/waving.gif) | ![jumping](previews/jumping.gif) | ![failed](previews/failed.gif) |
+
+| waiting | running | review |
+| --- | --- | --- |
+| ![waiting](previews/waiting.gif) | ![running](previews/running.gif) | ![review](previews/review.gif) |
 
 ## Install
 
